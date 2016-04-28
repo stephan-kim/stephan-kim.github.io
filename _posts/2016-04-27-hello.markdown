@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello!"
 date:   2016-04-27 20:23:22 +0200
-categories: hello
 ---
 
 It's us, <a href="http://stbr.me" target="_blank">Stephan</a> and <a
