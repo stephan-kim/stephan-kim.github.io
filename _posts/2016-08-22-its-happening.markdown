@@ -54,9 +54,9 @@ a good place.
 ### What to do?
 
 Let's be honest: Golling and its surroundings are a damn nice place. It's why
-we're marrying there. **If you have the time: try to come a few days early --
-and let us know!** If we know that people are there ahead of time, we'll try to
-organise fun stuff, like hiking or a guided tour of Salzburg.
+we're getting married there. **If you have the time: try to come a few days
+early -- and let us know!** If we know that people are there ahead of time,
+we'll try to organise fun stuff, like hiking or a guided tour of Salzburg.
     
 
 #### Golling
@@ -123,6 +123,18 @@ Stahlhaus from above, Image Source: <a href="https://commons.wikimedia.org/wiki/
 ...
 
 #### Around Golling
+
+##### **Werfen Ice Cave:**
+
+Take a train to the town of Werfen (just a few stops), and hike up to <a
+href="https://en.wikipedia.org/wiki/Eisriesenwelt" target="_blank">the world's
+largest ice cave</a> (or simply take the cable car). The tours are quite
+something and two of Stephan's friends used to be tour guides there when they
+were still students. Ask Georg (the guy with the big gun) about the dragons.
+
+![Werfen Ice Cave](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eisriesenwelt_Werfen_Austria_02.jpg/640px-Eisriesenwelt_Werfen_Austria_02.jpg)
+
+Image Source: <a href="https://commons.wikimedia.org/wiki/File:Eisriesenwelt_Werfen_Austria_02.jpg">wikimedia</a>.
 
 #### Salzburg
 
