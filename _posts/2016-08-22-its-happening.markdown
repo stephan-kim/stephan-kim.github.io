@@ -73,8 +73,8 @@ href="http://www.openstreetmap.org/?mlat=47.57985&mlon=13.18537#map=19/47.57985/
 before the brige accross the Salzach river</a>. The hiking path can be a bit
 slippery when it's rainy, but you'll be rewarded, check out some pictures on the
 <a href="https://de.wikipedia.org/wiki/Salzach%C3%B6fen" target="_blank">german
-wikipedia page</a>. There's a restaurant at the top, we recommend their deer
-ragout, or anything with mushrooms and/or dumplings.
+wikipedia page</a>. There's a restaurant at the top, we recommend the view and
+their deer ragout, or anything with mushrooms (aka "Knödel") and/or dumplings.
 
 ![Salzach Gorge](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Salzachoefen_20040828.jpg/311px-Salzachoefen_20040828.jpg)
 
@@ -101,13 +101,14 @@ Image Source: <a href="https://commons.wikimedia.org/wiki/File:Bluntausee.JPG">w
 ##### **Joch Almen/Stahlhaus:**
 
 The Joch Almen are two cottages, quite high up in the mountains, where local
-farmers keep their cows during the winter. The cheese that they make and sell
+farmers keep their cows during the summer. The cheese that they make and sell
 there is outstanding (really!), but doesn't even come close to the landscape.
 Additionally, you will pass through the Bluntau valley (see above), which is a
-sight in its own right. If the Joch Almen don't satisfy you, you can hike some
-more by walking all the way to the German border, where you'll find the
-Stahlhaus, an alpine hut named after a guy called "Karl von Stahl". Can't make
-this shit up. They serve food and drink and you can even stay there over night.
+sight in its own right. If the Joch Almen aren't enough of a challenge, you can
+hike some more by walking all the way to the German border, where you'll find
+the Stahlhaus, an alpine hut named after a guy called "Karl von Stahl". Can't
+make this shit up. They serve food and drink and you can even stay there over
+night.
 
 **Warning**, this is quite a hike, you should be moderately fit to attempt this.
 If you make it to the upper Joch Alm on a mountain bike (proof required, and use
