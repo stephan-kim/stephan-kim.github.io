@@ -85,24 +85,18 @@ Image Source: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f
 A long, but flat hike (try to borrow a bike!) is to hike to the lakes in the <a
 href="http://www.openstreetmap.org/?mlat=47.5776&mlon=13.1396#map=16/47.5776/13.1396"
 target="_blank">Bluntau valley</a>, a valley that has two beautiful lakes, lots
-of forests, and is surrounded by mountains. In a recent TV show on austrian
+of forests, and is surrounded by mountains. In a recent TV show on Austrian
 television, this was elected as one of the most beautiful places in the province
 of Salzburg. We recommend to combine this with a stay at Golling's nicest beer
 garden at <a
 href="http://www.openstreetmap.org/?mlat=47.58914&mlon=13.15219#map=19/47.58914/13.15219"
-target="_blank">Gasthof Göllhof</a>. For an austrian speciality, try <a
+target="_blank">Gasthof Göllhof</a>. For an Austrian speciality, try <a
 href="https://de.wikipedia.org/wiki/S%C3%BClze" target="_blank">Sülze</a> --
 essentially meat in aspic.
 
 ![Bluntau Valley](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bluntausee.JPG/320px-Bluntausee.JPG)
 
 Image Source: <a href="https://commons.wikimedia.org/wiki/File:Bluntausee.JPG">wikimedia</a>.
-
-#### Salzburg
-
-Nearby Salzburg has a beautiful old town, a monastery full of jolly, beer
-brewing monks (Stephan's favourite), clubs, concerts, pretty churches. Did we
-mention the beer brewing monks?
 
 ##### **Joch Almen/Stahlhaus:**
 
@@ -111,7 +105,7 @@ farmers keep their cows during the winter. The cheese that they make and sell
 there is outstanding (really!), but doesn't even come close to the landscape.
 Additionally, you will pass through the Bluntau valley (see above), which is a
 sight in its own right. If the Joch Almen don't satisfy you, you can hike some
-more by walking all the way to the german border, where you'll find the
+more by walking all the way to the German border, where you'll find the
 Stahlhaus, an alpine hut named after a guy called "Karl von Stahl". Can't make
 this shit up. They serve food and drink and you can even stay there over night.
 
@@ -126,4 +120,12 @@ Stahlhaus from above, Image Source: <a href="https://commons.wikimedia.org/wiki/
 #### Food
 
 ...
+
+#### Around Golling
+
+#### Salzburg
+
+Nearby Salzburg has a beautiful old town, a monastery full of jolly, beer
+brewing monks (Stephan's favourite), clubs, concerts, pretty churches. Did we
+mention the beer brewing monks?
 
