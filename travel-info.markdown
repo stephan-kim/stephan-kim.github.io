@@ -45,8 +45,9 @@ a good place.
 
 Let's be honest: Golling and its surroundings are a damn nice place. It's why
 we're getting married there. **If you have the time: try to come a few days
-early -- and let us know!** If we know that people are there ahead of time,
-we'll try to organise fun stuff, like hiking or a guided tour of Salzburg.
+early -- and let us know (use the comments section below)!** If we know that
+people are there ahead of time, we'll try to organise fun stuff, like hiking or
+a guided tour of Salzburg.
     
 
 #### Golling
