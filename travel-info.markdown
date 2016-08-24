@@ -6,16 +6,21 @@ date:   2016-08-22 16:07:00 +0200
 
 ## The Location
 
-The wedding will be in Golling's own castle, and the party will be at the
-Berggasthof Bachrain restaurant.
+The wedding will be in Golling's own castle (<a
+href="http://www.openstreetmap.org/?mlat=47.59722&mlon=13.16689#map=18/47.59722/13.16689"
+target="_blank">Markt 1, 5440 Golling an der Salzach</a>), and the party will be
+at the Berggasthof Bachrain (<a
+href="http://www.openstreetmap.org/?mlat=47.61012&mlon=13.21610#map=19/47.61012/13.21610"
+target="_blank">Moosegg 19, 5440 Scheffau</a>) restaurant.
 
-### Wedding
+![Burg Golling](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Castle_Golling_South.jpg/640px-Castle_Golling_South.jpg)
 
-TODO pics
+*The castle from the south. The entrance (via bridge) is on the opposite side.*
 
-### Party
-
-TODO pics
+The wedding ceremony will start at 13.00 at the castle. And the party will be at
+the restaurant in the evening. There will be a bus service to the restaurant
+afterwards, and there will be a bus service bringing guests back to town
+throughout the night. Refer to the [calendar page](./calendar.html) for details.
 
 ## Golling
 
@@ -48,7 +53,6 @@ we're getting married there. **If you have the time: try to come a few days
 early -- and let us know (use the comments section below)!** If we know that
 people are there ahead of time, we'll try to organise fun stuff, like hiking or
 a guided tour of Salzburg.
-    
 
 #### Golling
 
@@ -69,7 +73,7 @@ their deer ragout, or anything with mushrooms (aka "Knödel") and/or dumplings.
 
 ![Salzach Gorge](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Salzachoefen_20040828.jpg/311px-Salzachoefen_20040828.jpg)
 
-Image Source: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Salzachoefen_20040828.jpg">wikimedia</a>.
+*Image Source: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Salzachoefen_20040828.jpg">wikimedia</a>.*
 
 ##### **Bluntau Valley:**
 
@@ -87,7 +91,7 @@ essentially meat in aspic.
 
 ![Bluntau Valley](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bluntausee.JPG/320px-Bluntausee.JPG)
 
-Image Source: <a href="https://commons.wikimedia.org/wiki/File:Bluntausee.JPG">wikimedia</a>.
+*Image Source: <a href="https://commons.wikimedia.org/wiki/File:Bluntausee.JPG">wikimedia</a>.*
 
 ##### **Joch Almen/Stahlhaus:**
 
@@ -107,7 +111,7 @@ drink (proof required: photo; and use a helmet!).
 
 ![Stahlhaus](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Schneibstein_Blick_hinab_ins_Torrener_Joch_mit_Stahlhaus.jpg/640px-Schneibstein_Blick_hinab_ins_Torrener_Joch_mit_Stahlhaus.jpg?uselang=de)
 
-Stahlhaus from above, Image Source: <a href="https://commons.wikimedia.org/wiki/Category:Carl-von-Stahl-Haus?uselang=de#/media/File:Schneibstein_Blick_hinab_ins_Torrener_Joch_mit_Stahlhaus.jpg">wikimedia</a>.
+*Stahlhaus from above, Image Source: <a href="https://commons.wikimedia.org/wiki/Category:Carl-von-Stahl-Haus?uselang=de#/media/File:Schneibstein_Blick_hinab_ins_Torrener_Joch_mit_Stahlhaus.jpg">wikimedia</a>.*
 
 #### Food
 
@@ -132,13 +136,15 @@ his pathological fear of the leeches in the water. YMMV).
 
 Take a train to the town of Werfen (just a few stops), and hike up to <a
 href="https://en.wikipedia.org/wiki/Eisriesenwelt" target="_blank">the world's
-largest ice cave</a> (or simply take the cable car). The tours are quite
-something and two of Stephan's friends used to be tour guides there when they
-were still students. Ask Georg (the guy with the big gun) about the dragons.
+largest ice cave</a> (or simply take the cable car). Plan at least half a day.
+The tours are quite something and two of Stephan's friends used to be tour
+guides there when they were still students. Ask Georg (the guy with the big gun)
+about the dragons. Also, both offered to give a tour there to our guests, so let
+us know if you want to take them up on this offer!
 
 ![Werfen Ice Cave](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eisriesenwelt_Werfen_Austria_02.jpg/640px-Eisriesenwelt_Werfen_Austria_02.jpg)
 
-Image Source: <a href="https://commons.wikimedia.org/wiki/File:Eisriesenwelt_Werfen_Austria_02.jpg">wikimedia</a>.
+*Image Source: <a href="https://commons.wikimedia.org/wiki/File:Eisriesenwelt_Werfen_Austria_02.jpg">wikimedia</a>.*
 
 #### Salzburg
 
