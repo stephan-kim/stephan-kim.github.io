@@ -83,9 +83,10 @@ target="_blank">Bluntau valley</a>, a valley that has two beautiful lakes, lots
 of forests, and is surrounded by mountains. In a recent TV show on Austrian
 television, this was elected as one of the most beautiful places in the province
 of Salzburg. We recommend to combine this with a stay at Golling's nicest beer
-garden at <a
+garden at <a href="http://www.gasthof-goellhof.at/" target="_blank">Gasthof
+Göllhof</a> (<a
 href="http://www.openstreetmap.org/?mlat=47.58914&mlon=13.15219#map=19/47.58914/13.15219"
-target="_blank">Gasthof Göllhof</a>. For an Austrian speciality, try <a
+target="_blank">location</a>). For an Austrian speciality, try <a
 href="https://de.wikipedia.org/wiki/S%C3%BClze" target="_blank">Sülze</a> --
 essentially meat in aspic.
 
