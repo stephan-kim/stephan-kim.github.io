@@ -149,6 +149,8 @@ us know if you want to take them up on this offer!
 
 #### Salzburg
 
+![Salzburg](https://upload.wikimedia.org/wikipedia/commons/6/6d/Old_Town_Salzburg_across_the_Salzach_river.jpg)
+
 Nearby Salzburg has a beautiful old town, a monastery full of jolly, beer
 brewing monks (Stephan's favourite), clubs, concerts, pretty churches. Did we
 mention the beer brewing monks?
