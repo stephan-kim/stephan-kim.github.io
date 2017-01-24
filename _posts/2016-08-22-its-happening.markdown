@@ -14,3 +14,6 @@ this calendar to schedule all dates and locations of the wedding).
 
 We're working on putting together some [travel info](/travel-info), especially for the
 non-austrian visitors.
+
+<img width="50%" alt="Picture of us" src="https://raw.githubusercontent.com/stephan-kim/stephan-kim.github.io/master/_img/pic.jpg"/>
+
