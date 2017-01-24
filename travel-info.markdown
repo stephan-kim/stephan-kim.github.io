@@ -114,10 +114,6 @@ drink (proof required: photo; and use a helmet!).
 
 *Stahlhaus from above, Image Source: <a href="https://commons.wikimedia.org/wiki/Category:Carl-von-Stahl-Haus?uselang=de#/media/File:Schneibstein_Blick_hinab_ins_Torrener_Joch_mit_Stahlhaus.jpg">wikimedia</a>.*
 
-#### Food
-
-...
-
 #### Around Golling
 
 ##### **Seewaldsee Lake:**
