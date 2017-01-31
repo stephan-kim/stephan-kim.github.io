@@ -7,9 +7,9 @@
 
 # Site settings
 title: <3
-#email: none@available.com
+#email: wedding@stephan.kim
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about us.
+  Stephan & Kim
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stephan.kim" # the base hostname & protocol for your site
 #twitter_username: 
