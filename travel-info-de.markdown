@@ -86,7 +86,9 @@ target="_blank">Bluntau Tal</a>. Es gibt dort zwei Seen, viel Wald, und das Tal
 ist von steilen Felsw&auml;nden umgeben. In einer &ouml;sterreichischen TV
 Sendung wurde das Bluntau Tal vom Publikum zu einem der sch&ouml;nsten Orte des
 Bundeslandes Salzburg gew&auml;hlt. Wir empfehlen, bei <a
-href="http://www.gasthof-goellhof.at/" target="_blank">Gasthaus G&ouml;llhof</a>
+href="http://www.gasthof-goellhof.at/" target="_blank">Gasthaus G&ouml;llhof</a> (<a
+href="http://www.openstreetmap.org/?mlat=47.58914&mlon=13.15219#map=19/47.58914/13.15219"
+target="_blank">hier</a>)
 danach im sch&ouml;nsten Biergarten Gollings vorbeizuschauen. Probiert die <a
 href="https://de.wikipedia.org/wiki/S%C3%BClze" target="_blank">Sülze</a>!
 
