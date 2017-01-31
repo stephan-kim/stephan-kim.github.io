@@ -106,7 +106,7 @@ Herausforderung sind, der kann noch weiter bis zur deutschen Grenze laufen. Dort
 findet ihr das Stahlhaus, eine Schutzh&uuml;tte mit Gasthaus und
 &Uuml;bernachtungsm&ouml;glichkeit.
 
-**Warnung**, man sollte f&uuml;r diese Wanderung recht sportlich sein. Stephan
+**Achtung**, man sollte f&uuml;r diese Wanderung recht sportlich sein. Stephan
 wird denen, die es mit einem Mountainbike bis zur oberen Joch Alm schaffen ein
 Getr&auml;nk spendieren (macht ein Beweisfoto; und bitte benutzt einen Helm!).
 
