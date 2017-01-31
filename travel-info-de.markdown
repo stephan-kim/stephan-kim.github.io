@@ -9,7 +9,7 @@ date:   2016-08-22 17:07:00 +0200
 Die Trauung wird in der Burg in Golling stattfinden (<a
 href="http://www.openstreetmap.org/?mlat=47.59722&mlon=13.16689#map=18/47.59722/13.16689"
 target="_blank">Markt 1, 5440 Golling an der Salzach</a>), die
-anschlie&szlig;ende Feier ist bei Berggasthof Bachrain (<a
+anschlie&szlig;ende Feier ist beim Berggasthof Bachrain (<a
 href="http://www.openstreetmap.org/?mlat=47.61012&mlon=13.21610#map=19/47.61012/13.21610"
 target="_blank">Moosegg 19, 5440 Scheffau</a>).
 
@@ -18,22 +18,21 @@ target="_blank">Moosegg 19, 5440 Scheffau</a>).
 *Die Burg von S&uuml;den. Der Eingang (&uuml;ber die Br&uuml;cke) ist auf der gegen&uuml;berliegenden Seite.*
 
 Die Hochzeitszeremonie beginnt um 13.00 bei der Burg Golling, die Feier wird
-beim Gasthaus am Abend sein. Es wird einen Bus Service zum Restaurant geben, und
-es wird einen Bus Service vom Restaurant zur&uuml;ck in den Ort geben, der
-unsere G&auml;ste auch w&auml;hrend der Nacht wieder ins Tal bringt. Details
-werden auf der [Kalender seite](./calendar.hmtl) verf&uuml;gbar sein.
+beim Gasthaus am Abend stattfinden. Es wird einen Bus Service geben, der unsere
+G&auml;ste zum Restaurant zum Restaurant f&auml;hrt und w&auml;hrend der Nacht wieder ins Tal bringt. Details
+werden auf der [Kalender Seite](./calendar.hmtl) verf&uuml;gbar sein.
 
 ## Golling
 
 ### Anreise
 
- - **Zug:** Nehmt einen Zug nach Salzburg, von dort gibt es eine
+ - **Zug:** Nehmt einen Zug nach Salzburg, von dort aus gibt es eine
    Direktverbindung nach Golling (mehrere Z&uuml;ge pro Stunde). Ihr k&ouml;nnt
    diese Seite benutzen um Verbindungen zu finden -- der Bahnhof hei&szlig;t
    "Golling Abtenau": <a href="http://fahrplan.oebb.at/bin/query.exe/en?" target="_blank">fahrplan.oebb.at</a>.
  
  - **Flug:** Der Flughafen Salzburg ist der n&auml;chste Flughafen. Von dort
-   gibt es Busse nach Salzburg Hauptbahnhof, es gibt auch Taxis (fragt nach dem
+   gibt es Busse nach Salzburg Hauptbahnhof, es gibt alternativ auch Taxis (fragt nach dem
    Preis). Wenn ihr ein Auto mieten wollt: Golling ist sehr leicht vom Flughafen
    erreichbar (~25min), nehmt die Autobahn A10 in Richtung "Villach" und nehmt
    die Autobahn-Abfahrt Golling.
@@ -50,10 +49,10 @@ f&uuml;r alle eine gute Unterkunft zu finden.
 ### Freizeit
 
 Golling und seine Umgebung sind eine ziemlich sch&ouml;ne Gegend. Deswegen
-heiraten wir dort. **Wenn ihr die Zeit habt: versucht, ein paar Tage vorher zu
+heiraten wir ja auch dort :). **Wenn ihr die Zeit habt: versucht, ein paar Tage vorher zu
 kommen -- und lasst es uns wissen (benutzt die Kommentar Sektion unten)!** Wenn
-wir wissen dass G&auml;ste fr&uuml;her kommen, versuchen wir Unternehmungen wie
-wandern oder eine Tour durch Salzburg.
+wir wissen dass G&auml;ste fr&uuml;her kommen, versuchen wir Unternehmungen, wie
+Wanderungen oder eine Tour durch Salzburg zu organisieren.
 
 #### Golling
 
@@ -97,7 +96,7 @@ href="https://de.wikipedia.org/wiki/S%C3%BClze" target="_blank">Sülze</a>!
 
 ##### **Joch Almen/Stahlhaus:**
 
-Die Joch ALmen sind zwei H&uuml;tten recht hoch in den Bergen, auf denen Bauern
+Die Joch Almen sind zwei H&uuml;tten recht hoch in den Bergen, auf denen Bauern
 aus dem Ort den Sommer &uuml;ber deren K&uuml;he halten. Der K&auml;se den man
 dort kaufen kann ist gro&szlig;artig, aber noch besser ist wohl die Landschaft.
 Auf dem Weg dorthin kommt man auch noch durch das Bluntau Tal (oben), was einen
@@ -133,7 +132,7 @@ zu steigen. Es gibt dort Blutegel. Aber ihr seid vielleicht mutiger..).
 
 ##### **Eisriesenwelt Werfen:**
 
-Nehmt einen Zug nach Werfen (nur ein paar Haltestellen), and wandert zu <a
+Nehmt einen Zug nach Werfen (nur ein paar Haltestellen), und wandert zu <a
 href="https://en.wikipedia.org/wiki/Eisriesenwelt" target="_blank">der
 gr&ouml;&szlig;ten Eish&ouml;hle der Welt</a>. Plant zumindest einen halben Tag
 ein. Die F&uuml;hrung dort ist sehr sehenswert und zwei Freunde von Stephan
@@ -150,7 +149,7 @@ Gelegenheit kann euch einer der beiden dorthin begleiten.
 ![Salzburg](https://upload.wikimedia.org/wikipedia/commons/6/6d/Old_Town_Salzburg_across_the_Salzach_river.jpg)
 
 Das nahegelegene Salzburg hat eine wundersch&ouml;ne Altstadt, ein Kloster mit
-fr&ouml;hlichen bier-brauenden M&ouml;nchen (Stephans Lieblings-Destination),
+fr&ouml;hlichen bier-brauenden M&ouml;nchen (Stephans Lieblings-Ziel),
 Bars, Konzerte, Barock-Architektur. Haben wir die bier-brauenden M&ouml;nche
 erw&auml;hnt?
 
