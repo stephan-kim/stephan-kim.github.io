@@ -2,12 +2,18 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    #border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+}
+
+img.logo {
+    margin-top: 9px;
+    margin-left: -3px;
+    margin-bottom: $spacing-unit/2;
 }
 
 .site-title {
