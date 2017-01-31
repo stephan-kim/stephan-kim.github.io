@@ -63,9 +63,9 @@ Golling is tiny, but it has lots to offer if you like hiking, cycling, or food.
 A short (but stunning) hike is to take a bus to <a
 href="http://www.openstreetmap.org/?mlat=47.58421&mlon=13.18276#map=18/47.58421/13.18276"
 target="_blank">Golling/Salzach Pichler</a>, walk across the Lammer river
-brigde, walk up the hill, and see the "Salzach Öfen". The hiking path starts <a
+bridge, walk up the hill, and see the "Salzach Öfen". The hiking path starts <a
 href="http://www.openstreetmap.org/?mlat=47.57985&mlon=13.18537#map=19/47.57985/13.18537">just
-before the brige accross the Salzach river</a>. The hiking path can be a bit
+before the bridge accross the Salzach river</a>. The hiking path can be a bit
 slippery when it's rainy, but you'll be rewarded, check out some pictures on the
 <a href="https://de.wikipedia.org/wiki/Salzach%C3%B6fen" target="_blank">german
 wikipedia page</a>. There's a restaurant at the top, we recommend the view and
