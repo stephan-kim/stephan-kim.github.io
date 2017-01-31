@@ -106,7 +106,7 @@ the Stahlhaus, an alpine hut named after a guy called "Karl von Stahl". Can't
 make this shit up. They serve food and drink and you can even stay there over
 night.
 
-**Warning**, this is quite a hike, you should be moderately fit to attempt this.
+**Achtung**, this is quite a hike, you should be moderately fit to attempt this.
 If you make it to the upper Joch Alm on a mountain bike, Stephan will buy you a
 drink (proof required: photo; and use a helmet!).
 
