@@ -3,8 +3,9 @@
   <div class="wrapper">
 
       <a class="site-title" href="{{ site.baseurl }}/">
-          <a href="{{ site.url }}"><img class="logo" src="https://rawgit.com/stephan-kim/stephan-kim.github.io/master/_img/stephankim-logo.svg"></img></a>
+          <a href="{{ site.url }}"><img class="logo" src="https://rawgit.com/stephan-kim/stephan-kim.github.io/master/_img/stephankim-logo.svg" alt="Stephan <3 Kim"></img></a>
       </a>
+
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -21,6 +22,13 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% if page.url contains '-en' %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl | replace: '-en', '-de' }}"><img class="flag" src="https://github.com/stephan-kim/stephan-kim.github.io/raw/master/_img/german-flag.png" alt="in german"></img></a>
+        {% else %}
+          {% if page.url contains '-de' %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl | replace: '-de', '-en' }}"><img class="flag" src="https://github.com/stephan-kim/stephan-kim.github.io/raw/master/_img/english-flag.png" alt="in english"></img></a>
+          {% endif %}
+        {% endif %}
       </div>
     </nav>
 
