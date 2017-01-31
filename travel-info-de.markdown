@@ -6,7 +6,7 @@ date:   2016-08-22 17:07:00 +0200
 
 ## Der Ort
 
-Die Hochzeit wird in der Burg in Golling stattfinden (<a
+Die Trauung wird in der Burg in Golling stattfinden (<a
 href="http://www.openstreetmap.org/?mlat=47.59722&mlon=13.16689#map=18/47.59722/13.16689"
 target="_blank">Markt 1, 5440 Golling an der Salzach</a>), die
 anschlie&szlig;ende Feier ist bei Berggasthof Bachrain (<a
