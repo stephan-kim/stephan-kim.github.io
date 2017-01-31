@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reise Informationen (de)"
+title:  "Reise-Informationen"
 date:   2016-08-22 17:07:00 +0200
 ---
 
