@@ -23,10 +23,10 @@
           {% endif %}
         {% endfor %}
         {% if page.url contains '-en' %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl | replace: '-en', '-de' }}"><img class="flag" src="https://github.com/stephan-kim/stephan-kim.github.io/raw/master/_img/german-flag.png" alt="in german"></img></a>
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl | replace: '-en', '-de' | remove: '.html' }}"><img class="flag" src="https://github.com/stephan-kim/stephan-kim.github.io/raw/master/_img/german-flag.png" alt="in german"></img></a>
         {% else %}
           {% if page.url contains '-de' %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | replace: '-de', '-en' }}"><img class="flag" src="https://github.com/stephan-kim/stephan-kim.github.io/raw/master/_img/english-flag.png" alt="in english"></img></a>
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl | replace: '-de', '-en' | remove: '.html' }}"><img class="flag" src="https://github.com/stephan-kim/stephan-kim.github.io/raw/master/_img/english-flag.png" alt="in english"></img></a>
           {% endif %}
         {% endif %}
       </div>
