@@ -70,9 +70,7 @@ href="http://www.openstreetmap.org/?mlat=47.57985&mlon=13.18537#map=19/47.57985/
 vor der Br&uuml;cke &uuml;ber die Salzach</a> an. Er kann bei Regen
 rutschig sein, aber es zahlt sich aus. Seht euch ein paar Fotos auf <a
 href="https://de.wikipedia.org/wiki/Salzach%C3%B6fen"
-target="_blank">wikipedia</a> an. Am Ende der Wanderung kommt ihr an einem
-Restaurant vorbei -- wir empfehlen die Aussicht und das Wildragout, oder alles
-mit Pilzen und Kn&ouml;deln.
+target="_blank">wikipedia</a> an.
 
 ![Salzach Gorge](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Salzachoefen_20040828.jpg/311px-Salzachoefen_20040828.jpg)
 
