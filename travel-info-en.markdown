@@ -93,13 +93,13 @@ essentially meat in aspic.
 
 *Image Source: <a href="https://commons.wikimedia.org/wiki/File:Bluntausee.JPG">wikimedia</a>.*
 
-##### **Joch Almen/Stahlhaus:**
+##### **Jochalmen/Stahlhaus:**
 
-The Joch Almen are two cottages, quite high up in the mountains, where local
+The Jochalmen are two cottages, quite high up in the mountains, where local
 farmers keep their cows during the summer. The cheese that they make and sell
 there is outstanding (really!), but doesn't even come close to the landscape.
 Additionally, you will pass through the Bluntau valley (see above), which is a
-sight in its own right. If the Joch Almen aren't enough of a challenge, you can
+sight in its own right. If the Jochalmen aren't enough of a challenge, you can
 hike some more by walking all the way to the German border, where you'll find
 the Stahlhaus, an alpine hut named after a guy called "Karl von Stahl". Can't
 make this shit up. They serve food and drink and you can even stay there over
