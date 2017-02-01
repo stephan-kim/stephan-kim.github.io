@@ -68,8 +68,7 @@ href="http://www.openstreetmap.org/?mlat=47.57985&mlon=13.18537#map=19/47.57985/
 before the bridge accross the Salzach river</a>. The hiking path can be a bit
 slippery when it's rainy, but you'll be rewarded, check out some pictures on the
 <a href="https://de.wikipedia.org/wiki/Salzach%C3%B6fen" target="_blank">german
-wikipedia page</a>. There's a restaurant at the top, we recommend the view and
-their deer ragout, or anything with mushrooms and/or dumplings (aka "Knödel").
+wikipedia page</a>.
 
 ![Salzach Gorge](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Salzachoefen_20040828.jpg/311px-Salzachoefen_20040828.jpg)
 
