@@ -51,7 +51,7 @@ Gute Unterk&uuml;nfte in der Nähe des Zentrums:
 | [Goldener Ochs](http://www.goldenerochs.co.at/)    |
 
 <br>
-Falls ihr irgendwelche Fragen habt, lasst es uns wissen!
+Falls ihr irgendwelche Fragen habt lasst es uns wissen!
 
 ### Freizeit
 
