@@ -42,9 +42,16 @@ werden auf der [Kalender Seite](./calendar.hmtl) verf&uuml;gbar sein.
 
 ### Unterkunft
 
-Wir werden euch helfen, eine Unterkunft zu finden. Wenn ihr Empfehlungen wollt,
-lasst es uns so fr&uuml;h wie m&ouml;glich wissen und wir werden euch bei der Suche
-unterst&uuml;tzen.
+Gute Unterk&uuml;nfte in der Nähe des Zentrums:
+
+| [Cafe Maier](http://www.cafemaier.at/en/index.htm) |
+| [Pension Wieser](http://www.pension-wieser.at/)    |
+| [Hotel Hauslwirt](http://www.hauslwirt.at/en/)     |
+| [Pension Golingen](http://www.golingen.at/de/)     |
+| [Goldener Ochs](http://www.goldenerochs.co.at/)    |
+
+<br>
+Falls ihr irgendwelche Fragen habt, lasst es uns wissen!
 
 ### Freizeit
 

@@ -42,9 +42,16 @@ throughout the night. Refer to the [calendar page](./calendar.html) for details.
 
 ### Where to Stay?
 
-We will try to help you with finding accomodations. If you want recommendations,
-please let us know as soon as possible and we will make sure that everyone finds
-a good place.
+Some close-by and nice places to stay:
+
+| [Cafe Maier](http://www.cafemaier.at/en/index.htm) |
+| [Pension Wieser](http://www.pension-wieser.at/)    |
+| [Hotel Hauslwirt](http://www.hauslwirt.at/en/)     |
+| [Pension Golingen](http://www.golingen.at/de/)     |
+| [Goldener Ochs](http://www.goldenerochs.co.at/)    |
+
+<br>
+If you have any other questions, don't hesitate to ask us!
 
 ### What to do?
 
