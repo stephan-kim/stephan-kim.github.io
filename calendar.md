@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calendar
+title: Kalender/Calendar
 permalink: /calendar
 ---
 
