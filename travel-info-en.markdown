@@ -49,6 +49,7 @@ Some close-by and nice places to stay:
 | [Hotel Hauslwirt](http://www.hauslwirt.at/en/)     |
 | [Pension Golingen](http://www.golingen.at/de/)     |
 | [Goldener Ochs](http://www.goldenerochs.co.at/)    |
+| [Golling.info Room Search](http://golling.info)    |
 
 <br>
 If you have any other questions, don't hesitate to ask us!

@@ -49,6 +49,7 @@ Gute Unterk&uuml;nfte in der Nähe des Zentrums:
 | [Hotel Hauslwirt](http://www.hauslwirt.at/en/)     |
 | [Pension Golingen](http://www.golingen.at/de/)     |
 | [Goldener Ochs](http://www.goldenerochs.co.at/)    |
+| [Golling.info Zimmer Suche](http://golling.info)   |
 
 <br>
 Falls ihr irgendwelche Fragen habt lasst es uns wissen!
